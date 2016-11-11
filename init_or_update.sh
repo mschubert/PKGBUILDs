@@ -1,6 +1,10 @@
 #!/bin/bash
+set -x
 
-curl -s -G "https://aur.archlinux.org/rpc/?v=5&type=search&by=maintainer&arg=mschu" |
-    jq -r '.results[] | .Name' pkgs | sort
+AUR="https://aur.archlinux.org/rpc/?v=5&type=search&by=maintainer&arg=mschu"
+PKGs = $(curl -s -G "$AUR" | jq -r '.results[] | .Name' pkgs | sort)
 
-# git clone ssh://aur@aur.archlinux.org/package_name.git
+for PKG in PKGs; do
+    git remote add $PKG ssh://aur@aur.archlinux.org/$PKG.git
+    git subtree add --prefix=$PKG $PKG master
+done
