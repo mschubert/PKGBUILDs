@@ -1,11 +1,12 @@
 #!/bin/bash
 set -x
 
-PKG=$1
+cd $(dirname $0)
 
-#TODO: use all command line args, or all pkgs if none given
-if [[ -z $PKG ]]; then
-    exit 1
-fi
+# push to AUR
+for pkg in $(echo $@ | sed 's:/$::'); do
+    git subtree push --prefix=$pkg $pkg master
+done
 
-git subtree push --prefix=$PKG $PKG master
+# push to github collection
+git push
