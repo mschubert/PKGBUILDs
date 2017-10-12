@@ -13,19 +13,6 @@ Github without duplicating them.
 Here, I use `git subtree` to maintain each package in this repository and at
 the same time be able to push to the AUR.
 
-Adding a new package
---------------------
-
-Packages are added to AUR by cloning them from the package repository. This is
-done by:
-
-```
-./new_package.sh <pkg>
-```
-
-Be sure to check the [AUR authentication and submission
-rules](https://wiki.archlinux.org/index.php/Arch_User_Repository#Sharing_and_maintaining_packages).
-
 Commiting
 ---------
 
