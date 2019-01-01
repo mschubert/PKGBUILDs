@@ -20,10 +20,17 @@ Just use a normal git commit, but be sure to commit changes to each PKGBUILD
 directory separately.
 
 Uploading to AUR
------
+----------------
 
 To push packages to both AUR and Github, just type:
 
 ```
 ./aur_upload.sh <pkgname(s)>
+```
+
+Adding a new package
+--------------------
+
+```
+./new_package <pkgname(s)>
 ```
