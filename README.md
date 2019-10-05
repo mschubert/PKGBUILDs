@@ -69,7 +69,7 @@ Package versions
 * [![generatorrunner](https://repology.org/badge/version-for-repo/aur/generatorrunner.svg?header=generatorrunner)](https://repology.org/project/generatorrunner/versions)
 * [![git-lfs](https://repology.org/badge/version-for-repo/aur/git-lfs.svg?header=git-lfs)](https://repology.org/project/git-lfs/versions)
 * [![git-lfs-test-server](https://repology.org/badge/version-for-repo/aur/git-lfs-test-server.svg?header=git-lfs-test-server)](https://repology.org/project/git-lfs-test-server/versions)
-* [![gnome-shell-extension-impatience](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-impatience.svg?gnome-shell-extension-impatience)](https://repology.org/project/gnome-shell-extension-impatience/versions)
+* [![gnome-shell-extension-impatience](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-impatience.svg?header=gnome-shell-extension-impatience)](https://repology.org/project/gnome-shell-extension-impatience/versions)
 * [![gnome-shell-extension-weather](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-weather.svg?header=genome-shell-extension-weather)](https://repology.org/project/gnome-shell-extension-weather/versions)
 * [![gnome-shell-extension-web-search-dialog](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-web-search-dialog.svg?header=gnome-shell-extension-web-search-dialog)](https://repology.org/project/gnome-shell-extension-web-search-dialog/versions)
 * [![gperftools](https://repology.org/badge/version-for-repo/aur/gperftools.svg?header=gperftools)](https://repology.org/project/gperftools/versions)
