@@ -67,12 +67,10 @@ Package versions
 [![fasta](https://repology.org/badge/version-for-repo/aur/fasta.svg?header=fasta)](https://repology.org/project/fasta/versions)
 [![firehose-get](https://repology.org/badge/version-for-repo/aur/firehose-get.svg?header=firehose-get)](https://repology.org/project/firehose-get/versions)
 [![generatorrunner](https://repology.org/badge/version-for-repo/aur/generatorrunner.svg?header=generatorrunner)](https://repology.org/project/generatorrunner/versions)
-[![git-lfs](https://repology.org/badge/version-for-repo/aur/git-lfs.svg?header=git-lfs)](https://repology.org/project/git-lfs/versions)
 [![git-lfs-test-server](https://repology.org/badge/version-for-repo/aur/git-lfs-test-server.svg?header=git-lfs-test-server)](https://repology.org/project/git-lfs-test-server/versions)
 [![gnome-shell-extension-impatience](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-impatience.svg?header=gnome-shell-extension-impatience)](https://repology.org/project/gnome-shell-extension-impatience/versions)
 [![gnome-shell-extension-weather](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-weather.svg?header=genome-shell-extension-weather)](https://repology.org/project/gnome-shell-extension-weather/versions)
 [![gnome-shell-extension-web-search-dialog](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-web-search-dialog.svg?header=gnome-shell-extension-web-search-dialog)](https://repology.org/project/gnome-shell-extension-web-search-dialog/versions)
-[![gperftools](https://repology.org/badge/version-for-repo/aur/gperftools.svg?header=gperftools)](https://repology.org/project/gperftools/versions)
 [![hmmer](https://repology.org/badge/version-for-repo/aur/hmmer.svg?header=hmmer)](https://repology.org/project/hmmer/versions)
 [![imagej](https://repology.org/badge/version-for-repo/aur/imagej.svg?header=imagej)](https://repology.org/project/imagej/versions)
 [![imagej-plugins-embl](https://repology.org/badge/version-for-repo/aur/imagej-plugins-embl.svg?header=imagej-plugins-embl)](https://repology.org/project/imagej-plugins-embl/versions)
@@ -140,3 +138,9 @@ Package versions
 [![vim-fakeclip](https://repology.org/badge/version-for-repo/aur/vim-fakeclip.svg?header=vim-fakeclip)](https://repology.org/project/vim-fakeclip/versions)
 [![vim-wombat](https://repology.org/badge/version-for-repo/aur/vim-wombat.svg?header=vim-wombat)](https://repology.org/project/vim-wombat/versions)
 [![xmacro](https://repology.org/badge/version-for-repo/aur/xmacro.svg?header=xmacro)](https://repology.org/project/xmacro/versions)
+
+Packages moved to official repositories
+---------------------------------------
+
+[![git-lfs](https://repology.org/badge/version-for-repo/aur/git-lfs.svg?header=git-lfs)](https://repology.org/project/git-lfs/versions)
+[![gperftools](https://repology.org/badge/version-for-repo/aur/gperftools.svg?header=gperftools)](https://repology.org/project/gperftools/versions)
