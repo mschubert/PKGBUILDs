@@ -81,7 +81,7 @@ Package versions
 [![texlive:enumitem](https://repology.org/badge/version-for-repo/aur/texlive:enumitem.svg?header=texlive:enumitem)](https://repology.org/project/texlive:enumitem/versions)
 [![texlive:mathabx](https://repology.org/badge/version-for-repo/aur/texlive:mathabx.svg?header=texlive:mathabx)](https://repology.org/project/texlive:mathabx/versions)
 [![texlive:media9](https://repology.org/badge/version-for-repo/aur/texlive:media9.svg?header=texlive:media9)](https://repology.org/project/texlive:media9/versions)
-[![texlive:pdfpages](https://repology.org/badge/version-for-repo/aur/texlive:pdfpages.svg?header=pdfpages)](https://repology.org/project/texlive:pdfpages/versions)
+[![texlive:pdfpages](https://repology.org/badge/version-for-repo/aur/texlive:pdfpages.svg?header=texlive:pdfpages)](https://repology.org/project/texlive:pdfpages/versions)
 [![libdai](https://repology.org/badge/version-for-repo/aur/libdai.svg?header=libdai)](https://repology.org/project/libdai/versions)
 [![libnuml](https://repology.org/badge/version-for-repo/aur/libnuml.svg?header=libnuml)](https://repology.org/project/libnuml/versions)
 [![libsbgn](https://repology.org/badge/version-for-repo/aur/libsbgn.svg?header=libsbgn)](https://repology.org/project/libsbgn/versions)
@@ -144,3 +144,8 @@ Packages moved to official repositories
 
 [![git-lfs](https://repology.org/badge/version-for-repo/aur/git-lfs.svg?header=git-lfs)](https://repology.org/project/git-lfs/versions)
 [![gperftools](https://repology.org/badge/version-for-repo/aur/gperftools.svg?header=gperftools)](https://repology.org/project/gperftools/versions)
+
+Packages orphaned to eventually remove
+--------------------------------------
+
+*none yet*
