@@ -12,7 +12,7 @@ for pkg in $(echo $@ | sed 's:/$::'); do
     git remote add $pkg ssh://aur@aur.archlinux.org/$pkg.git
     git fetch $pkg
     git subtree add --prefix=$pkg $pkg master
-    mkdir $pkg
+    mkdir -p $pkg
 done
 
 git stash apply
