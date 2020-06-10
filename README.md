@@ -72,6 +72,7 @@ Package versions
 [![gnome-shell-extension-weather](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-weather.svg?header=genome-shell-extension-weather)](https://repology.org/project/gnome-shell-extension-weather/versions)
 [![gnome-shell-extension-web-search-dialog](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-web-search-dialog.svg?header=gnome-shell-extension-web-search-dialog)](https://repology.org/project/gnome-shell-extension-web-search-dialog/versions)
 [![hmmer](https://repology.org/badge/version-for-repo/aur/hmmer.svg?header=hmmer)](https://repology.org/project/hmmer/versions)
+[![htscodecs](https://repology.org/badge/version-for-repo/aur/htscodecs.svg?header=htscodecs)](https://repology.org/project/htscodecs/versions)
 [![imagej](https://repology.org/badge/version-for-repo/aur/imagej.svg?header=imagej)](https://repology.org/project/imagej/versions)
 [![imagej-plugins-embl](https://repology.org/badge/version-for-repo/aur/imagej-plugins-embl.svg?header=imagej-plugins-embl)](https://repology.org/project/imagej-plugins-embl/versions)
 [![interbench](https://repology.org/badge/version-for-repo/aur/interbench.svg?header=interbench)](https://repology.org/project/interbench/versions)
