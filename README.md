@@ -102,6 +102,7 @@ Package versions
 [![phyml](https://repology.org/badge/version-for-repo/aur/phyml.svg?header=phyml)](https://repology.org/project/phyml/versions)
 [![primer3](https://repology.org/badge/version-for-repo/aur/primer3.svg?header=primer3)](https://repology.org/project/primer3/versions)
 [![pymol-autodock](https://repology.org/badge/version-for-repo/aur/pymol-autodock.svg?header=pymol-autodock)](https://repology.org/project/pymol-autodock/versions)
+[![python:datrie](https://repology.org/badge/version-for-repo/aur/python:datrie.svg?header=python:datrie)](https://repology.org/project/python:datrie/versions)
 [![python:lineedit](https://repology.org/badge/version-for-repo/aur/python:lineedit.svg?header=python:lineedit)](https://repology.org/project/python:lineedit/versions)
 [![python:llvmlite](https://repology.org/badge/version-for-repo/aur/python:llvmlite.svg?header=python:llvmlite)](https://repology.org/project/python:llvmlite/versions)
 [![python:mlpy](https://repology.org/badge/version-for-repo/aur/python:mlpy.svg?header=python:mlpy)](https://repology.org/project/python:mlpy/versions)
