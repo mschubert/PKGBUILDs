@@ -122,6 +122,7 @@ Package versions
 [![python:ipython-cluster-helper](https://repology.org/badge/version-for-repo/aur/python:ipython-cluster-helper.svg?header=python:ipython-cluster-helper)](https://repology.org/project/python:ipython-cluster-helper/versions)
 [![python:la](https://repology.org/badge/version-for-repo/aur/python:la.svg?header=python:la)](https://repology.org/project/python:la/versions)
 [![python:mahotas](https://repology.org/badge/version-for-repo/aur/python:mahotas.svg?header=python:mahotas)](https://repology.org/project/python:mahotas/versions)
+[![python:multipledispatch](https://repology.org/badge/version-for-repo/aur/python:multipledispatch.svg?header=python:multipledispatch)](https://repology.org/project/python:multipledispatch/versions)
 [![python:pydstool](https://repology.org/badge/version-for-repo/aur/python:pydstool.svg?header=python:pydstool)](https://repology.org/project/python:pydstool/versions)
 [![python:pysces](https://repology.org/badge/version-for-repo/aur/python:pysces.svg?header=python:pysces)](https://repology.org/project/python:pysces/versions)
 [![pythonmagick](https://repology.org/badge/version-for-repo/aur/pythonmagick.svg?header=pythonmagick)](https://repology.org/project/pythonmagick/versions)
