@@ -130,7 +130,6 @@ Package versions
 [![python:sloppycell](https://repology.org/badge/version-for-repo/aur/python:sloppycell.svg?header=python:sloppycell)](https://repology.org/project/python:sloppycell/versions)
 [![python:stochpy](https://repology.org/badge/version-for-repo/aur/python:stochpy.svg?header=python:stochpy)](https://repology.org/project/python:stochpy/versions)
 [![python:sundials](https://repology.org/badge/version-for-repo/aur/python:sundials.svg?header=python:sundials)](https://repology.org/project/python:sundials/versions)
-[![python:tsne](https://repology.org/badge/version-for-repo/aur/python:tsne.svg?header=python:tsne)](https://repology.org/project/python:tsne/versions)
 [![python:zotero](https://repology.org/badge/version-for-repo/aur/python:zotero.svg?header=python:zotero)](https://repology.org/project/python:zotero/versions)
 [![python:scikits.bootstrap](https://repology.org/badge/version-for-repo/aur/python:scikits.bootstrap.svg?header=python:scikits.bootstrap)](https://repology.org/project/python:scikits.bootstrap/versions)
 [![python:shiboken](https://repology.org/badge/version-for-repo/aur/python:shiboken.svg?header=python:shiboken)](https://repology.org/project/python:shiboken/versions)
