@@ -118,7 +118,6 @@ Package versions
 [![python:copperhead](https://repology.org/badge/version-for-repo/aur/python:copperhead.svg?header=python:copperhead)](https://repology.org/project/python:copperhead/versions)
 [![python:easydev](https://repology.org/badge/version-for-repo/aur/python:easydev.svg?header=python:easydev)](https://repology.org/project/python:easydev/versions)
 [![python:gcat](https://repology.org/badge/version-for-repo/aur/python:gcat.svg?header=python:gcat)](https://repology.org/project/python:gcat/versions)
-[![python:ipython-cluster-helper](https://repology.org/badge/version-for-repo/aur/python:ipython-cluster-helper.svg?header=python:ipython-cluster-helper)](https://repology.org/project/python:ipython-cluster-helper/versions)
 [![python:la](https://repology.org/badge/version-for-repo/aur/python:la.svg?header=python:la)](https://repology.org/project/python:la/versions)
 [![python:mahotas](https://repology.org/badge/version-for-repo/aur/python:mahotas.svg?header=python:mahotas)](https://repology.org/project/python:mahotas/versions)
 [![python:multipledispatch](https://repology.org/badge/version-for-repo/aur/python:multipledispatch.svg?header=python:multipledispatch)](https://repology.org/project/python:multipledispatch/versions)
