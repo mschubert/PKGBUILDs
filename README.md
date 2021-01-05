@@ -113,7 +113,6 @@ Package versions
 [![python:bioservices](https://repology.org/badge/version-for-repo/aur/python:bioservices.svg?header=python:bioservices)](https://repology.org/project/python:bioservices/versions)
 [![python:bottleneck](https://repology.org/badge/version-for-repo/aur/python:bottleneck.svg?header=python:bottleneck)](https://repology.org/project/python:bottleneck/versions)
 [![python:cgen](https://repology.org/badge/version-for-repo/aur/python:cgen.svg?header=python:cgen)](https://repology.org/project/python:cgen/versions)
-[![python:codepy](https://repology.org/badge/version-for-repo/aur/python:codepy.svg?header=python:codepy)](https://repology.org/project/python:codepy/versions)
 [![python:copasi](https://repology.org/badge/version-for-repo/aur/python:copasi.svg?header=python:copasi)](https://repology.org/project/python:copasi/versions)
 [![python:copperhead](https://repology.org/badge/version-for-repo/aur/python:copperhead.svg?header=python:copperhead)](https://repology.org/project/python:copperhead/versions)
 [![python:easydev](https://repology.org/badge/version-for-repo/aur/python:easydev.svg?header=python:easydev)](https://repology.org/project/python:easydev/versions)
