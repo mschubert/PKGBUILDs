@@ -67,7 +67,6 @@ Package versions
 [![fasta](https://repology.org/badge/version-for-repo/aur/fasta.svg?header=fasta)](https://repology.org/project/fasta/versions)
 [![firehose-get](https://repology.org/badge/version-for-repo/aur/firehose-get.svg?header=firehose-get)](https://repology.org/project/firehose-get/versions)
 [![generatorrunner](https://repology.org/badge/version-for-repo/aur/generatorrunner.svg?header=generatorrunner)](https://repology.org/project/generatorrunner/versions)
-[![git-lfs-test-server](https://repology.org/badge/version-for-repo/aur/git-lfs-test-server.svg?header=git-lfs-test-server)](https://repology.org/project/git-lfs-test-server/versions)
 [![gnome-shell-extension-drop-down-terminal](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-drop-down-terminal.svg?header=gnome-shell-extension-drop-down-terminal)](https://repology.org/project/gnome-shell-extension-drop-down-terminal/versions)
 [![gnome-shell-extension-impatience](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-impatience.svg?header=gnome-shell-extension-impatience)](https://repology.org/project/gnome-shell-extension-impatience/versions)
 [![gnome-shell-extension-pixel-saver](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-pixel-saver.svg?header=gnome-shell-extension-pixel-saver)](https://repology.org/project/gnome-shell-extension-pixel-saver/versions)
@@ -139,7 +138,6 @@ Package versions
 [![symengine](https://repology.org/badge/version-for-repo/aur/symengine.svg?header=symengine)](https://repology.org/project/symengine/versions)
 [![tcoffee](https://repology.org/badge/version-for-repo/aur/tcoffee.svg?header=tcoffee)](https://repology.org/project/tcoffee/versions)
 [![tklib](https://repology.org/badge/version-for-repo/aur/tklib.svg?header=tklib)](https://repology.org/project/tklib/versions)
-[![vim-fakeclip](https://repology.org/badge/version-for-repo/aur/vim-fakeclip.svg?header=vim-fakeclip)](https://repology.org/project/vim-fakeclip/versions)
 [![vim-wombat](https://repology.org/badge/version-for-repo/aur/vim-wombat.svg?header=vim-wombat)](https://repology.org/project/vim-wombat/versions)
 [![xmacro](https://repology.org/badge/version-for-repo/aur/xmacro.svg?header=xmacro)](https://repology.org/project/xmacro/versions)
 
