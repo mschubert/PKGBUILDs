@@ -54,7 +54,6 @@ Package versions
 
 <!--[![%s](https://repology.org/badge/version-for-repo/aur/%s.svg?header=%s)](https://repology.org/project/%s/versions)-->
 [![adaptagrams](https://repology.org/badge/version-for-repo/aur/adaptagrams.svg?header=adaptagrams)](https://repology.org/project/adaptagrams/versions)
-[![apiextractor](https://repology.org/badge/version-for-repo/aur/apiextractor.svg?header=apiextractor)](https://repology.org/project/apiextractor/versions)
 [![augustus](https://repology.org/badge/version-for-repo/aur/augustus.svg?header=augustus)](https://repology.org/project/augustus/versions)
 [![autodock-vina](https://repology.org/badge/version-for-repo/aur/autodock-vina.svg?header=autodock-vina)](https://repology.org/project/autodock-vina/versions)
 [![avida](https://repology.org/badge/version-for-repo/aur/avida.svg?header=avida)](https://repology.org/project/avida/versions)
@@ -66,7 +65,6 @@ Package versions
 [![emboss](https://repology.org/badge/version-for-repo/aur/emboss.svg?header=emboss)](https://repology.org/project/emboss/versions)
 [![fasta](https://repology.org/badge/version-for-repo/aur/fasta.svg?header=fasta)](https://repology.org/project/fasta/versions)
 [![firehose-get](https://repology.org/badge/version-for-repo/aur/firehose-get.svg?header=firehose-get)](https://repology.org/project/firehose-get/versions)
-[![generatorrunner](https://repology.org/badge/version-for-repo/aur/generatorrunner.svg?header=generatorrunner)](https://repology.org/project/generatorrunner/versions)
 [![gnome-shell-extension-drop-down-terminal](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-drop-down-terminal.svg?header=gnome-shell-extension-drop-down-terminal)](https://repology.org/project/gnome-shell-extension-drop-down-terminal/versions)
 [![gnome-shell-extension-impatience](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-impatience.svg?header=gnome-shell-extension-impatience)](https://repology.org/project/gnome-shell-extension-impatience/versions)
 [![gnome-shell-extension-pixel-saver](https://repology.org/badge/version-for-repo/aur/gnome-shell-extension-pixel-saver.svg?header=gnome-shell-extension-pixel-saver)](https://repology.org/project/gnome-shell-extension-pixel-saver/versions)
