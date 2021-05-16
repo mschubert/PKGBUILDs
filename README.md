@@ -102,7 +102,6 @@ Package versions
 [![python:datrie](https://repology.org/badge/version-for-repo/aur/python:datrie.svg?header=python:datrie)](https://repology.org/project/python:datrie/versions)
 [![python:lineedit](https://repology.org/badge/version-for-repo/aur/python:lineedit.svg?header=python:lineedit)](https://repology.org/project/python:lineedit/versions)
 [![python:llvmlite](https://repology.org/badge/version-for-repo/aur/python:llvmlite.svg?header=python:llvmlite)](https://repology.org/project/python:llvmlite/versions)
-[![python:mlpy](https://repology.org/badge/version-for-repo/aur/python:mlpy.svg?header=python:mlpy)](https://repology.org/project/python:mlpy/versions)
 [![python:numba](https://repology.org/badge/version-for-repo/aur/python:numba.svg?header=python:numba)](https://repology.org/project/python:numba/versions)
 [![python:pybigwig](https://repology.org/badge/version-for-repo/aur/python:pybigwig.svg?header=python:pybigwig)](https://repology.org/project/python:pybigwig/versions)
 [![python:ratelimiter](https://repology.org/badge/version-for-repo/aur/python:ratelimiter.svg?header=python:ratelimiter)](https://repology.org/project/python:ratelimiter/versions)
