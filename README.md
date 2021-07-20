@@ -54,11 +54,11 @@ Package versions
 
 <!--[![%s](https://repology.org/badge/version-for-repo/aur/%s.svg?header=%s)](https://repology.org/project/%s/versions)-->
 [![adaptagrams](https://repology.org/badge/version-for-repo/aur/adaptagrams.svg?header=adaptagrams)](https://repology.org/project/adaptagrams/versions)
-[![augustus](https://repology.org/badge/version-for-repo/aur/augustus.svg?header=augustus)](https://repology.org/project/augustus/versions)
+[![augustus-gene-prediction](https://repology.org/badge/version-for-repo/aur/augustus-gene-prediction.svg?header=augustus-gene-prediction)](https://repology.org/project/augustus-gene-prediction/versions)
 [![autodock-vina](https://repology.org/badge/version-for-repo/aur/autodock-vina.svg?header=autodock-vina)](https://repology.org/project/autodock-vina/versions)
 [![avida](https://repology.org/badge/version-for-repo/aur/avida.svg?header=avida)](https://repology.org/project/avida/versions)
 [![biomart](https://repology.org/badge/version-for-repo/aur/biomart.svg?header=biomart)](https://repology.org/project/biomart/versions)
-[![blast+](https://repology.org/badge/version-for-repo/aur/blast+.svg?header=blast+)](https://repology.org/project/blast+/versions)
+[![ncbi-blast+](https://repology.org/badge/version-for-repo/aur/ncbi-blast+.svg?header=ncbi-blast+)](https://repology.org/project/ncbi-blast+/versions)
 [![cellware](https://repology.org/badge/version-for-repo/aur/cellware.svg?header=cellware)](https://repology.org/project/cellware/versions)
 [![copasi](https://repology.org/badge/version-for-repo/aur/copasi.svg?header=copasi)](https://repology.org/project/copasi/versions)
 [![dunnart](https://repology.org/badge/version-for-repo/aur/dunnart.svg?header=dunnart)](https://repology.org/project/dunnart/versions)
