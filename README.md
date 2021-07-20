@@ -114,6 +114,7 @@ Package versions
 [![pythonmagick](https://repology.org/badge/version-for-repo/aur/pythonmagick.svg?header=pythonmagick)](https://repology.org/project/pythonmagick/versions)
 [![python:simpy](https://repology.org/badge/version-for-repo/aur/python:simpy.svg?header=python:simpy)](https://repology.org/project/python:simpy/versions)
 [![radian](https://repology.org/badge/version-for-repo/aur/radian.svg?header=radian)](https://repology.org/project/radian/versions)
+[![staden](https://repology.org/badge/version-for-repo/aur/staden.svg?header=staden)](https://repology.org/project/staden/versions)
 [![staden-io-lib](https://repology.org/badge/version-for-repo/aur/staden-io-lib.svg?header=staden-io-lib)](https://repology.org/project/staden-io-lib/versions)
 [![sundials23](https://repology.org/badge/version-for-repo/aur/sundials23.svg?header=sundials23)](https://repology.org/project/sundials23/versions)
 [![tcoffee](https://repology.org/badge/version-for-repo/aur/tcoffee.svg?header=tcoffee)](https://repology.org/project/tcoffee/versions)
