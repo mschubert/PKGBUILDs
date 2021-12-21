@@ -13,4 +13,4 @@ for pkg in $(echo $@ | sed 's:/$::'); do
     fi
 done
 
-git push
+#git push
