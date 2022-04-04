@@ -98,8 +98,6 @@ Package versions
 [![pymol-autodock](https://repology.org/badge/version-for-repo/aur/pymol-autodock.svg?header=pymol-autodock)](https://repology.org/project/pymol-autodock/versions)
 [![python:datrie](https://repology.org/badge/version-for-repo/aur/python:datrie.svg?header=python:datrie)](https://repology.org/project/python:datrie/versions)
 [![python:lineedit](https://repology.org/badge/version-for-repo/aur/python:lineedit.svg?header=python:lineedit)](https://repology.org/project/python:lineedit/versions)
-[![python:llvmlite](https://repology.org/badge/version-for-repo/aur/python:llvmlite.svg?header=python:llvmlite)](https://repology.org/project/python:llvmlite/versions)
-[![python:numba](https://repology.org/badge/version-for-repo/aur/python:numba.svg?header=python:numba)](https://repology.org/project/python:numba/versions)
 [![python:pybigwig](https://repology.org/badge/version-for-repo/aur/python:pybigwig.svg?header=python:pybigwig)](https://repology.org/project/python:pybigwig/versions)
 [![python:ratelimiter](https://repology.org/badge/version-for-repo/aur/python:ratelimiter.svg?header=python:ratelimiter)](https://repology.org/project/python:ratelimiter/versions)
 [![python:rchitect](https://repology.org/badge/version-for-repo/aur/python:rchitect.svg?header=python:rchitect)](https://repology.org/project/python:rchitect/versions)
@@ -124,6 +122,8 @@ Packages moved to official repositories
 
 [![git-lfs](https://repology.org/badge/version-for-repo/aur/git-lfs.svg?header=git-lfs)](https://repology.org/project/git-lfs/versions)
 [![gperftools](https://repology.org/badge/version-for-repo/aur/gperftools.svg?header=gperftools)](https://repology.org/project/gperftools/versions)
+[![python:llvmlite](https://repology.org/badge/version-for-repo/aur/python:llvmlite.svg?header=python:llvmlite)](https://repology.org/project/python:llvmlite/versions)
+[![python:numba](https://repology.org/badge/version-for-repo/aur/python:numba.svg?header=python:numba)](https://repology.org/project/python:numba/versions)
 [![symengine](https://repology.org/badge/version-for-repo/aur/symengine.svg?header=symengine)](https://repology.org/project/symengine/versions)
 
 Packages orphaned to eventually remove
