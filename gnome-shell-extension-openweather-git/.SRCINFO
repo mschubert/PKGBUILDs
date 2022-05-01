@@ -5,6 +5,7 @@ pkgbase = gnome-shell-extension-openweather-git
 	url = https://gitlab.com/skrewball/openweather
 	arch = any
 	license = GPL3
+	makedepends = git
 	depends = dconf
 	depends = gnome-shell
 	provides = gnome-shell-extension-weather-git

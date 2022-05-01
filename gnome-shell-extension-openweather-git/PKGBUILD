@@ -12,6 +12,7 @@ arch=(any)
 url="https://gitlab.com/skrewball/openweather"
 license=(GPL3)
 depends=('dconf' 'gnome-shell')
+makedepends=('git')
 provides=(gnome-shell-extension-weather-git)
 conflicts=(gnome-shell-extension-weather-git)
 source=($_pkgbase::git+$url.git)
