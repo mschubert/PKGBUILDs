@@ -105,6 +105,7 @@ Package versions
 [![python:cgen](https://repology.org/badge/version-for-repo/aur/python:cgen.svg?header=python:cgen)](https://repology.org/project/python:cgen/versions)
 [![python:easydev](https://repology.org/badge/version-for-repo/aur/python:easydev.svg?header=python:easydev)](https://repology.org/project/python:easydev/versions)
 [![python:multipledispatch](https://repology.org/badge/version-for-repo/aur/python:multipledispatch.svg?header=python:multipledispatch)](https://repology.org/project/python:multipledispatch/versions)
+[![python:numba](https://repology.org/badge/version-for-repo/aur/python:numba.svg?header=python:numba)](https://repology.org/project/python:numba/versions)
 [![python:pydstool](https://repology.org/badge/version-for-repo/aur/python:pydstool.svg?header=python:pydstool)](https://repology.org/project/python:pydstool/versions)
 [![pythonmagick](https://repology.org/badge/version-for-repo/aur/pythonmagick.svg?header=pythonmagick)](https://repology.org/project/pythonmagick/versions)
 [![python:simpy](https://repology.org/badge/version-for-repo/aur/python:simpy.svg?header=python:simpy)](https://repology.org/project/python:simpy/versions)
@@ -123,7 +124,6 @@ Packages moved to official repositories
 [![git-lfs](https://repology.org/badge/version-for-repo/aur/git-lfs.svg?header=git-lfs)](https://repology.org/project/git-lfs/versions)
 [![gperftools](https://repology.org/badge/version-for-repo/aur/gperftools.svg?header=gperftools)](https://repology.org/project/gperftools/versions)
 [![python:llvmlite](https://repology.org/badge/version-for-repo/aur/python:llvmlite.svg?header=python:llvmlite)](https://repology.org/project/python:llvmlite/versions)
-[![python:numba](https://repology.org/badge/version-for-repo/aur/python:numba.svg?header=python:numba)](https://repology.org/project/python:numba/versions)
 [![symengine](https://repology.org/badge/version-for-repo/aur/symengine.svg?header=symengine)](https://repology.org/project/symengine/versions)
 
 Packages orphaned to eventually remove
