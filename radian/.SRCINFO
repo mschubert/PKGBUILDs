@@ -11,6 +11,7 @@ pkgbase = radian
 	checkdepends = python-pexpect
 	checkdepends = python-ptyprocess
 	makedepends = python-setuptools
+	makedepends = python-pip
 	depends = r>=3.4.0
 	depends = python-prompt_toolkit>3.0.15
 	depends = python-prompt_toolkit<3.1
