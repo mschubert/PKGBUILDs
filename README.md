@@ -120,12 +120,7 @@ Package versions
 Packages moved to official repositories
 ---------------------------------------
 
-[![git-lfs](https://repology.org/badge/version-for-repo/aur/git-lfs.svg?header=git-lfs)](https://repology.org/project/git-lfs/versions)
-[![gperftools](https://repology.org/badge/version-for-repo/aur/gperftools.svg?header=gperftools)](https://repology.org/project/gperftools/versions)
-[![python:llvmlite](https://repology.org/badge/version-for-repo/aur/python:llvmlite.svg?header=python:llvmlite)](https://repology.org/project/python:llvmlite/versions)
-[![symengine](https://repology.org/badge/version-for-repo/aur/symengine.svg?header=symengine)](https://repology.org/project/symengine/versions)
-
-Packages orphaned to eventually remove
---------------------------------------
-
-*none yet*
+[![git-lfs](https://repology.org/badge/version-for-repo/arch/git-lfs.svg?header=git-lfs)](https://repology.org/project/git-lfs/versions)
+[![gperftools](https://repology.org/badge/version-for-repo/arch/gperftools.svg?header=gperftools)](https://repology.org/project/gperftools/versions)
+[![python:llvmlite](https://repology.org/badge/version-for-repo/arch/python:llvmlite.svg?header=python:llvmlite)](https://repology.org/project/python:llvmlite/versions)
+[![symengine](https://repology.org/badge/version-for-repo/arch/symengine.svg?header=symengine)](https://repology.org/project/symengine/versions)
