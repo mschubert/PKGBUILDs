@@ -111,7 +111,6 @@ Package versions
 [![radian](https://repology.org/badge/version-for-repo/aur/radian.svg?header=radian)](https://repology.org/project/radian/versions)
 [![staden](https://repology.org/badge/version-for-repo/aur/staden.svg?header=staden)](https://repology.org/project/staden/versions)
 [![staden-io-lib](https://repology.org/badge/version-for-repo/aur/staden-io-lib.svg?header=staden-io-lib)](https://repology.org/project/staden-io-lib/versions)
-[![sundials23](https://repology.org/badge/version-for-repo/aur/sundials23.svg?header=sundials23)](https://repology.org/project/sundials23/versions)
 [![tcoffee](https://repology.org/badge/version-for-repo/aur/tcoffee.svg?header=tcoffee)](https://repology.org/project/tcoffee/versions)
 [![tklib](https://repology.org/badge/version-for-repo/aur/tklib.svg?header=tklib)](https://repology.org/project/tklib/versions)
 [![vim-wombat](https://repology.org/badge/version-for-repo/aur/vim-wombat.svg?header=vim-wombat)](https://repology.org/project/vim-wombat/versions)
