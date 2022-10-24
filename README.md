@@ -106,7 +106,6 @@ Package versions
 [![python:multipledispatch](https://repology.org/badge/version-for-repo/aur/python:multipledispatch.svg?header=python:multipledispatch)](https://repology.org/project/python:multipledispatch/versions)
 [![python:numba](https://repology.org/badge/version-for-repo/aur/python:numba.svg?header=python:numba)](https://repology.org/project/python:numba/versions)
 [![python:pydstool](https://repology.org/badge/version-for-repo/aur/python:pydstool.svg?header=python:pydstool)](https://repology.org/project/python:pydstool/versions)
-[![pythonmagick](https://repology.org/badge/version-for-repo/aur/pythonmagick.svg?header=pythonmagick)](https://repology.org/project/pythonmagick/versions)
 [![python:simpy](https://repology.org/badge/version-for-repo/aur/python:simpy.svg?header=python:simpy)](https://repology.org/project/python:simpy/versions)
 [![radian](https://repology.org/badge/version-for-repo/aur/radian.svg?header=radian)](https://repology.org/project/radian/versions)
 [![staden](https://repology.org/badge/version-for-repo/aur/staden.svg?header=staden)](https://repology.org/project/staden/versions)
