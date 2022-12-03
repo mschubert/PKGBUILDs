@@ -58,7 +58,6 @@ Package versions
 [![avida](https://repology.org/badge/version-for-repo/aur/avida.svg?header=avida)](https://repology.org/project/avida/versions)
 [![biomart](https://repology.org/badge/version-for-repo/aur/biomart.svg?header=biomart)](https://repology.org/project/biomart/versions)
 [![ncbi-blast+](https://repology.org/badge/version-for-repo/aur/ncbi-blast+.svg?header=ncbi-blast+)](https://repology.org/project/ncbi-blast+/versions)
-[![copasi](https://repology.org/badge/version-for-repo/aur/copasi.svg?header=copasi)](https://repology.org/project/copasi/versions)
 [![dunnart](https://repology.org/badge/version-for-repo/aur/dunnart.svg?header=dunnart)](https://repology.org/project/dunnart/versions)
 [![emboss](https://repology.org/badge/version-for-repo/aur/emboss.svg?header=emboss)](https://repology.org/project/emboss/versions)
 [![fasta](https://repology.org/badge/version-for-repo/aur/fasta.svg?header=fasta)](https://repology.org/project/fasta/versions)
