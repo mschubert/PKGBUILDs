@@ -66,7 +66,6 @@ Package versions
 [![gnome:openweather](https://repology.org/badge/version-for-repo/aur/gnome:openweather.svg?header=gnome:openweather)](https://repology.org/project/gnome:openweather/versions)
 [![gnome:impatience](https://repology.org/badge/version-for-repo/aur/gnome:impatience.svg?header=gnome:impatience)](https://repology.org/project/gnome:impatience/versions)
 [![gnome:pixel-saver](https://repology.org/badge/version-for-repo/aur/gnome:pixel-saver.svg?header=gnome:pixel-saver)](https://repology.org/project/gnome:pixel-saver/versions)
-[![gnome:weather](https://repology.org/badge/version-for-repo/aur/gnome:weather.svg?header=gnome:weather)](https://repology.org/project/gnome:weather/versions)
 [![gnome:web-search-dialog](https://repology.org/badge/version-for-repo/aur/gnome:web-search-dialog.svg?header=gnome:web-search-dialog)](https://repology.org/project/gnome:web-search-dialog/versions)
 [![hmmer](https://repology.org/badge/version-for-repo/aur/hmmer.svg?header=hmmer)](https://repology.org/project/hmmer/versions)
 [![htscodecs](https://repology.org/badge/version-for-repo/aur/htscodecs.svg?header=htscodecs)](https://repology.org/project/htscodecs/versions)
