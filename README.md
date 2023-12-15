@@ -80,7 +80,6 @@ Package versions
 [![texlive:pdfpages](https://repology.org/badge/version-for-repo/aur/texlive:pdfpages.svg?header=texlive:pdfpages)](https://repology.org/project/texlive:pdfpages/versions)
 [![libdai](https://repology.org/badge/version-for-repo/aur/libdai.svg?header=libdai)](https://repology.org/project/libdai/versions)
 [![libnuml](https://repology.org/badge/version-for-repo/aur/libnuml.svg?header=libnuml)](https://repology.org/project/libnuml/versions)
-[![libsbgn](https://repology.org/badge/version-for-repo/aur/libsbgn.svg?header=libsbgn)](https://repology.org/project/libsbgn/versions)
 [![libsbml](https://repology.org/badge/version-for-repo/aur/libsbml.svg?header=libsbml)](https://repology.org/project/libsbml/versions)
 [![libsedml](https://repology.org/badge/version-for-repo/aur/libsedml.svg?header=libsedml)](https://repology.org/project/libsedml/versions)
 [![muscle-sequence-alignment](https://repology.org/badge/version-for-repo/aur/muscle-sequence-alignment.svg?header=muscle-sequence-alignment)](https://repology.org/project/muscle-sequence-alignment/versions)
