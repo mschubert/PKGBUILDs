@@ -92,7 +92,6 @@ Package versions
 [![primer3](https://repology.org/badge/version-for-repo/aur/primer3.svg?header=primer3)](https://repology.org/project/primer3/versions)
 [![pymol-autodock](https://repology.org/badge/version-for-repo/aur/pymol-autodock.svg?header=pymol-autodock)](https://repology.org/project/pymol-autodock/versions)
 [![python:pybigwig](https://repology.org/badge/version-for-repo/aur/python:pybigwig.svg?header=python:pybigwig)](https://repology.org/project/python:pybigwig/versions)
-[![python:ratelimiter](https://repology.org/badge/version-for-repo/aur/python:ratelimiter.svg?header=python:ratelimiter)](https://repology.org/project/python:ratelimiter/versions)
 [![python:rchitect](https://repology.org/badge/version-for-repo/aur/python:rchitect.svg?header=python:rchitect)](https://repology.org/project/python:rchitect/versions)
 [![python:bioservices](https://repology.org/badge/version-for-repo/aur/python:bioservices.svg?header=python:bioservices)](https://repology.org/project/python:bioservices/versions)
 [![python:cgen](https://repology.org/badge/version-for-repo/aur/python:cgen.svg?header=python:cgen)](https://repology.org/project/python:cgen/versions)
