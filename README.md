@@ -72,7 +72,6 @@ Package versions
 [![imagej-plugins-embl](https://repology.org/badge/version-for-repo/aur/imagej-plugins-embl.svg?header=imagej-plugins-embl)](https://repology.org/project/imagej-plugins-embl/versions)
 [![interbench](https://repology.org/badge/version-for-repo/aur/interbench.svg?header=interbench)](https://repology.org/project/interbench/versions)
 [![ironpython](https://repology.org/badge/version-for-repo/aur/ironpython.svg?header=ironpython)](https://repology.org/project/ironpython/versions)
-[![jessyink2](https://repology.org/badge/version-for-repo/aur/jessyink2.svg?header=jessyink2)](https://repology.org/project/jessyink2/versions)
 [![laspack](https://repology.org/badge/version-for-repo/aur/laspack.svg?header=laspack)](https://repology.org/project/laspack/versions)
 [![texlive:enumitem](https://repology.org/badge/version-for-repo/aur/texlive:enumitem.svg?header=texlive:enumitem)](https://repology.org/project/texlive:enumitem/versions)
 [![texlive:mathabx](https://repology.org/badge/version-for-repo/aur/texlive:mathabx.svg?header=texlive:mathabx)](https://repology.org/project/texlive:mathabx/versions)
@@ -112,7 +111,7 @@ Packages moved to official repositories
 
 [![git-lfs](https://repology.org/badge/version-for-repo/arch/git-lfs.svg?header=git-lfs)](https://repology.org/project/git-lfs/versions)
 [![gperftools](https://repology.org/badge/version-for-repo/arch/gperftools.svg?header=gperftools)](https://repology.org/project/gperftools/versions)
-[![python:datrie](https://repology.org/badge/version-for-repo/aur/python:datrie.svg?header=python:datrie)](https://repology.org/project/python:datrie/versions)
+[![python:datrie](https://repology.org/badge/version-for-repo/arch/python:datrie.svg?header=python:datrie)](https://repology.org/project/python:datrie/versions)
 [![python:llvmlite](https://repology.org/badge/version-for-repo/arch/python:llvmlite.svg?header=python:llvmlite)](https://repology.org/project/python:llvmlite/versions)
 [![python:numba](https://repology.org/badge/version-for-repo/arch/python:numba.svg?header=python:numba)](https://repology.org/project/python:numba/versions)
 [![symengine](https://repology.org/badge/version-for-repo/arch/symengine.svg?header=symengine)](https://repology.org/project/symengine/versions)
