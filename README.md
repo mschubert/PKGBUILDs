@@ -16,26 +16,17 @@ the same time be able to push to the AUR.
 Committing
 ----------
 
-Just use a normal git commit, but be sure to commit changes to each PKGBUILD
+Just use a normal git commit, but ideally commit changes to each PKGBUILD
 directory separately.
 
 Uploading to AUR
 ----------------
 
-This pushes packages to both AUR (subtree) and Github (full repository).
+This pushes packages to both AUR (subtree) and Github (full repository). If the
+package does not exist in AUR it will be created:
 
 ```
 ./aur_upload.sh <pkgname(s)>
-```
-
-Adding a new package
---------------------
-
-This will use a `git clone` hook to [register a new package with the
-AUR](https://wiki.archlinux.org/index.php/Arch_User_Repository#Submitting_packages).
-
-```
-./new_package <pkgname(s)>
 ```
 
 Removing a package
