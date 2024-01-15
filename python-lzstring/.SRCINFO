@@ -1,0 +1,24 @@
+pkgbase = python-lzstring
+	pkgdesc = LZ-string compression for Python
+	pkgver = 1.0.4
+	pkgrel = 1
+	url = https://pypi.python.org/pypi/lzstring
+	arch = any
+	license = MIT
+	makedepends = python
+	makedepends = python-setuptools
+	makedepends = git
+	makedepends = python2
+	makedepends = python2-setuptools
+	options = !emptydirs
+	source = git+https://github.com/gkovacs/lz-string-python#commit=0b2773ede157fb69f0c837b853ccc5ab9c236c58
+	sha256sums = SKIP
+
+pkgname = python-lzstring
+	depends = python
+	depends = python-future
+
+pkgname = python2-lzstring
+	depends = python2
+	depends = python2-future
+
