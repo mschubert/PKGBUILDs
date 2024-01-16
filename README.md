@@ -13,6 +13,19 @@ Github without duplicating them.
 Here, I use `git subtree` to maintain each package in this repository and at
 the same time be able to push to the AUR.
 
+Adding a package from AUR
+-------------------------
+
+Add a package that already exists in the AUR to the local tree. Always try this
+first when submitting a new package, the repository may exist but not be listed
+on the web page.
+
+```
+./init_or_update.sh <package>
+```
+
+TODO: CAN I RECOMMEND THIS FOR A PKG THAT DOESNT YET EXIST? [try for multiqc?]
+
 Committing
 ----------
 
