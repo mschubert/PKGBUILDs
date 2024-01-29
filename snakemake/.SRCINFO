@@ -1,0 +1,47 @@
+pkgbase = snakemake
+	pkgdesc = Python-based language and execution environment for GNU Make-like workflows
+	pkgver = 7.16.1
+	pkgrel = 1
+	url = https://snakemake.readthedocs.io
+	arch = any
+	license = MIT
+	makedepends = python-setuptools
+	makedepends = python-build
+	makedepends = python-installer
+	makedepends = python-wheel
+	depends = python
+	depends = python-wrapt
+	depends = python-requests
+	depends = python-ratelimiter
+	depends = python-yaml
+	depends = python-configargparse
+	depends = python-appdirs
+	depends = python-datrie
+	depends = python-jsonschema
+	depends = python-docutils
+	depends = python-gitpython
+	depends = python-psutil
+	depends = jupyter-nbformat
+	depends = python-toposort
+	depends = python-connection_pool
+	depends = python-pulp>=2.0
+	depends = python-smart_open>=3.0
+	depends = python-stopit
+	depends = python-tabulate
+	depends = python-yte
+	depends = python-jinja
+	depends = python-reretry
+	optdepends = python-pygments: For report generation
+	optdepends = python-biopython: For GenBank/NCBI Entrez support
+	optdepends = python-easywebdav: For WebDAV support
+	optdepends = python-pysftp: For SFTP support
+	optdepends = python-boto3: For AWS support
+	optdepends = python-moto: For AWS support
+	optdepends = python-dropbox: For Dropbox support
+	optdepends = python-ftputil: For FTP support
+	optdepends = python-xrootd: For XRootD support
+	optdepends = slacker: For messaging
+	source = https://files.pythonhosted.org/packages/source/s/snakemake/snakemake-7.16.1.tar.gz
+	sha256sums = db485c8c9cfea3f0f8e229e4b410ab2727d7cbe4d6c6c197d30dd0ef1cd58989
+
+pkgname = snakemake
