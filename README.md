@@ -73,7 +73,6 @@ Package versions
 [![hmmer](https://repology.org/badge/version-for-repo/aur/hmmer.svg?header=hmmer)](https://repology.org/project/hmmer/versions)
 [![htscodecs](https://repology.org/badge/version-for-repo/aur/htscodecs.svg?header=htscodecs)](https://repology.org/project/htscodecs/versions)
 [![imagej](https://repology.org/badge/version-for-repo/aur/imagej.svg?header=imagej)](https://repology.org/project/imagej/versions)
-[![imagej-plugins-embl](https://repology.org/badge/version-for-repo/aur/imagej-plugins-embl.svg?header=imagej-plugins-embl)](https://repology.org/project/imagej-plugins-embl/versions)
 [![interbench](https://repology.org/badge/version-for-repo/aur/interbench.svg?header=interbench)](https://repology.org/project/interbench/versions)
 [![ironpython](https://repology.org/badge/version-for-repo/aur/ironpython.svg?header=ironpython)](https://repology.org/project/ironpython/versions)
 [![laspack](https://repology.org/badge/version-for-repo/aur/laspack.svg?header=laspack)](https://repology.org/project/laspack/versions)
