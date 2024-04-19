@@ -17,7 +17,8 @@ pkgbase = snakemake
 	depends = python-docutils
 	depends = python-gitpython
 	depends = python-humanfriendly
-	depends = python-jinja>=3.0
+	depends = python-jinja>=1:3.0
+	depends = python-jinja<1:4.0
 	depends = python-jsonschema
 	depends = jupyter-nbformat
 	depends = python-packaging

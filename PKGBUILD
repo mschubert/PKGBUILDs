@@ -17,7 +17,7 @@ depends=(
     python-docutils
     python-gitpython
     python-humanfriendly
-    'python-jinja>=3.0' #'python-jinja<4.0'
+    'python-jinja>=1:3.0' 'python-jinja<1:4.0'
     python-jsonschema
     jupyter-nbformat
     python-packaging
