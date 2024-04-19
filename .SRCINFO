@@ -1,6 +1,6 @@
 pkgbase = snakemake
 	pkgdesc = Python-based language and execution environment for GNU Make-like workflows
-	pkgver = 8.5.3
+	pkgver = 8.10.8
 	pkgrel = 1
 	url = https://snakemake.readthedocs.io
 	arch = any
@@ -17,28 +17,35 @@ pkgbase = snakemake
 	depends = python-docutils
 	depends = python-gitpython
 	depends = python-humanfriendly
-	depends = python-jinja
+	depends = python-jinja>=3.0
 	depends = python-jsonschema
 	depends = jupyter-nbformat
 	depends = python-packaging
 	depends = python-psutil
-	depends = python-pulp>=2.0
+	depends = python-pulp>=2.3.1
+	depends = python-pulp<2.9
 	depends = python-yaml
-	depends = python-requests
+	depends = python-requests>=2.8.1
+	depends = python-requests<3.0
 	depends = python-reretry
 	depends = python-smart_open>=3.0
-	depends = python-snakemake-interface-executor-plugins
-	depends = python-snakemake-interface-common
-	depends = python-snakemake-interface-storage-plugins
-	depends = python-snakemake-interface-report-plugins
+	depends = python-smart_open<8.0
+	depends = python-snakemake-interface-executor-plugins>=9.1.0
+	depends = python-snakemake-interface-common>=1.17.0
+	depends = python-snakemake-interface-storage-plugins>=3.1.0
+	depends = python-snakemake-interface-report-plugins>=1.0.0
 	depends = python-stopit
 	depends = python-tabulate
 	depends = python-throttler
-	depends = python-toposort
+	depends = python-toposort>=1.10
+	depends = python-toposort<2.0
 	depends = python-wrapt
-	depends = python-yte
-	depends = python-dpath
-	depends = python-conda-inject
+	depends = python-yte>=1.5.1
+	depends = python-yte<2.0
+	depends = python-dpath>=2.1.6
+	depends = python-dpath<3.0.0
+	depends = python-conda-inject>=1.3.1
+	depends = python-conda-inject<2.0
 	optdepends = python-pygments: For report generation
 	optdepends = python-biopython: For GenBank/NCBI Entrez support
 	optdepends = python-easywebdav: For WebDAV support
@@ -49,7 +56,7 @@ pkgbase = snakemake
 	optdepends = python-ftputil: For FTP support
 	optdepends = python-xrootd: For XRootD support
 	optdepends = slacker: For messaging
-	source = https://files.pythonhosted.org/packages/source/s/snakemake/snakemake-8.5.3.tar.gz
-	sha256sums = 6fc39107b395760caf3893106d67859fc70d7de2a8892ddcbcd33611a50abeb1
+	source = https://files.pythonhosted.org/packages/source/s/snakemake/snakemake-8.10.8.tar.gz
+	sha256sums = 75711faa668324f9e6c44a860f2f9645be358763a97ee411bb32f7a8f6dca6b7
 
 pkgname = snakemake
