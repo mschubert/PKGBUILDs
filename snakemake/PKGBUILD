@@ -3,7 +3,7 @@
 # Contributor: Kyle Meyer <kyle@kyleam.com>
 
 pkgname=snakemake
-pkgver=8.5.3
+pkgver=8.10.8
 pkgrel=1
 pkgdesc='Python-based language and execution environment for GNU Make-like workflows'
 arch=(any)
@@ -17,28 +17,28 @@ depends=(
     python-docutils
     python-gitpython
     python-humanfriendly
-    python-jinja
+    'python-jinja>=3.0' #'python-jinja<4.0'
     python-jsonschema
     jupyter-nbformat
     python-packaging
     python-psutil
-    'python-pulp>=2.0'
+    'python-pulp>=2.3.1' 'python-pulp<2.9'
     python-yaml
-    python-requests
+    'python-requests>=2.8.1' 'python-requests<3.0'
     python-reretry
-    'python-smart_open>=3.0'
-    python-snakemake-interface-executor-plugins
-    python-snakemake-interface-common
-    python-snakemake-interface-storage-plugins
-    python-snakemake-interface-report-plugins
+    'python-smart_open>=3.0' 'python-smart_open<8.0'
+    'python-snakemake-interface-executor-plugins>=9.1.0'
+    'python-snakemake-interface-common>=1.17.0'
+    'python-snakemake-interface-storage-plugins>=3.1.0'
+    'python-snakemake-interface-report-plugins>=1.0.0'
     python-stopit
     python-tabulate
     python-throttler
-    python-toposort
+    'python-toposort>=1.10' 'python-toposort<2.0'
     python-wrapt
-    python-yte
-    python-dpath
-    python-conda-inject
+    'python-yte>=1.5.1' 'python-yte<2.0'
+    'python-dpath>=2.1.6' 'python-dpath<3.0.0'
+    'python-conda-inject>=1.3.1' 'python-conda-inject<2.0'
 )
 makedepends=(python-setuptools python-build python-installer python-wheel)
 optdepends=(
@@ -55,7 +55,7 @@ optdepends=(
 )
 license=(MIT)
 source=("https://files.pythonhosted.org/packages/source/${pkgname::1}/$pkgname/$pkgname-$pkgver.tar.gz")
-sha256sums=('6fc39107b395760caf3893106d67859fc70d7de2a8892ddcbcd33611a50abeb1')
+sha256sums=('75711faa668324f9e6c44a860f2f9645be358763a97ee411bb32f7a8f6dca6b7')
 
 build() {
     cd "$srcdir/$pkgname-$pkgver"
