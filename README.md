@@ -24,8 +24,6 @@ on the web page.
 ./init_or_update.sh <package>
 ```
 
-TODO: CAN I RECOMMEND THIS FOR A PKG THAT DOESNT YET EXIST? [try for multiqc?]
-
 Committing
 ----------
 
@@ -68,6 +66,7 @@ Package versions
 [![gnome:drop-down-terminal](https://repology.org/badge/version-for-repo/aur/gnome:drop-down-terminal.svg?header=gnome:drop-down-terminal)](https://repology.org/project/gnome:drop-down-terminal/versions)
 [![gnome:impatience](https://repology.org/badge/version-for-repo/aur/gnome:impatience.svg?header=gnome:impatience)](https://repology.org/project/gnome:impatience/versions)
 [![gnome:pixel-saver](https://repology.org/badge/version-for-repo/aur/gnome:pixel-saver.svg?header=gnome:pixel-saver)](https://repology.org/project/gnome:pixel-saver/versions)
+[![gnome:soft-brightness](https://repology.org/badge/version-for-repo/aur/gnome:soft-brightness.svg?header=gnome:soft-brightness)](https://repology.org/project/gnome:soft-brightness/versions)
 [![gnome:web-search-dialog](https://repology.org/badge/version-for-repo/aur/gnome:web-search-dialog.svg?header=gnome:web-search-dialog)](https://repology.org/project/gnome:web-search-dialog/versions)
 [![hmmer](https://repology.org/badge/version-for-repo/aur/hmmer.svg?header=hmmer)](https://repology.org/project/hmmer/versions)
 [![htscodecs](https://repology.org/badge/version-for-repo/aur/htscodecs.svg?header=htscodecs)](https://repology.org/project/htscodecs/versions)
@@ -93,6 +92,7 @@ Package versions
 [![phyml](https://repology.org/badge/version-for-repo/aur/phyml.svg?header=phyml)](https://repology.org/project/phyml/versions)
 [![primer3](https://repology.org/badge/version-for-repo/aur/primer3.svg?header=primer3)](https://repology.org/project/primer3/versions)
 [![pymol-autodock](https://repology.org/badge/version-for-repo/aur/pymol-autodock.svg?header=pymol-autodock)](https://repology.org/project/pymol-autodock/versions)
+[![python:argparse-dataclass](https://repology.org/badge/version-for-repo/aur/python:argparse-dataclass.svg?header=python:argparse-dataclass)](https://repology.org/project/python:argparse-dataclass/versions)
 [![python:bioservices](https://repology.org/badge/version-for-repo/aur/python:bioservices.svg?header=python:bioservices)](https://repology.org/project/python:bioservices/versions)
 [![python:cgen](https://repology.org/badge/version-for-repo/aur/python:cgen.svg?header=python:cgen)](https://repology.org/project/python:cgen/versions)
 [![python:colormath](https://repology.org/badge/version-for-repo/aur/python:colormath.svg?header=python:colormath)](https://repology.org/project/python:colormath/versions)
@@ -104,9 +104,14 @@ Package versions
 [![python:pydstool](https://repology.org/badge/version-for-repo/aur/python:pydstool.svg?header=python:pydstool)](https://repology.org/project/python:pydstool/versions)
 [![python:rchitect](https://repology.org/badge/version-for-repo/aur/python:rchitect.svg?header=python:rchitect)](https://repology.org/project/python:rchitect/versions)
 [![python:simpy](https://repology.org/badge/version-for-repo/aur/python:simpy.svg?header=python:simpy)](https://repology.org/project/python:simpy/versions)
+[![python:snakemake-interface-common](https://repology.org/badge/version-for-repo/aur/python:snakemake-interface-common.svg?header=python:snakemake-interface-common)](https://repology.org/project/python:snakemake-interface-common/versions)
+[![python:snakemake-interface-executor-plugins](https://repology.org/badge/version-for-repo/aur/python:snakemake-interface-executor-plugins.svg?header=python:snakemake-interface-executor-plugins)](https://repology.org/project/python:snakemake-interface-executor-plugins/versions)
+[![python:snakemake-interface-report-plugins](https://repology.org/badge/version-for-repo/aur/python:snakemake-interface-report-plugins.svg?header=python:snakemake-interface-report-plugins)](https://repology.org/project/python:snakemake-interface-report-plugins/versions)
+[![python:snakemake-interface-storage-plugins](https://repology.org/badge/version-for-repo/aur/python:snakemake-interface-storage-plugins.svg?header=python:snakemake-interface-storage-plugins)](https://repology.org/project/python:snakemake-interface-storage-plugins/versions)
 [![python:spectra](https://repology.org/badge/version-for-repo/aur/python:spectra.svg?header=python:spectra)](https://repology.org/project/python:spectra/versions)
 [![python:throttler](https://repology.org/badge/version-for-repo/aur/python:throttler.svg?header=python:throttler)](https://repology.org/project/python:throttler/versions)
 [![radian](https://repology.org/badge/version-for-repo/aur/radian.svg?header=radian)](https://repology.org/project/radian/versions)
+[![snakemake](https://repology.org/badge/version-for-repo/aur/snakemake.svg?header=snakemake)](https://repology.org/project/snakemake/versions)
 [![staden](https://repology.org/badge/version-for-repo/aur/staden.svg?header=staden)](https://repology.org/project/staden/versions)
 [![staden-io-lib](https://repology.org/badge/version-for-repo/aur/staden-io-lib.svg?header=staden-io-lib)](https://repology.org/project/staden-io-lib/versions)
 [![tcoffee](https://repology.org/badge/version-for-repo/aur/tcoffee.svg?header=tcoffee)](https://repology.org/project/tcoffee/versions)
