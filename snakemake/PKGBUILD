@@ -1,9 +1,8 @@
 # Maintainer: Michael Schubert <mschu.dev at gmail> github.com/mschubert/PKGBUILDs
 # Contributor: Philipp A. <flying-sheep@web.de>
 # Contributor: Kyle Meyer <kyle@kyleam.com>
-
 pkgname=snakemake
-pkgver=8.15.0
+pkgver=8.15.1
 pkgrel=1
 pkgdesc='Python-based language and execution environment for GNU Make-like workflows'
 arch=(any)
@@ -29,7 +28,7 @@ depends=(
     'python-smart_open>=4.0' 'python-smart_open<8.0'
     'python-snakemake-interface-executor-plugins>=9.2.0'
     'python-snakemake-interface-common>=1.17.0'
-    'python-snakemake-interface-storage-plugins>=3.1.0'
+    'python-snakemake-interface-storage-plugins>=3.2.3'
     'python-snakemake-interface-report-plugins>=1.0.0'
     python-stopit
     python-tabulate
@@ -55,7 +54,7 @@ optdepends=(
 )
 license=(MIT)
 source=("https://files.pythonhosted.org/packages/source/${pkgname::1}/$pkgname/$pkgname-$pkgver.tar.gz")
-sha256sums=('d05db7b52817ab9390a19f2e8f70ee556c89dfb74aea9bad0f709bca3b6580ca')
+sha256sums=('20f84a63a2cf254a2ca6c6c2e02ee351693e41787e0ed9b73f0e17ee1c91b8f8')
 
 build() {
     cd "$srcdir/$pkgname-$pkgver"
