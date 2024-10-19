@@ -2,7 +2,7 @@
 # Contributor: Philipp A. <flying-sheep@web.de>
 # Contributor: Kyle Meyer <kyle@kyleam.com>
 pkgname=snakemake
-pkgver=8.21.0
+pkgver=8.23.2
 pkgrel=1
 pkgdesc='Python-based language and execution environment for GNU Make-like workflows'
 arch=(any)
@@ -29,11 +29,10 @@ depends=(
     'python-snakemake-interface-executor-plugins>=9.3.2'
     'python-snakemake-interface-common>=1.17.0'
     'python-snakemake-interface-storage-plugins>=3.2.3'
-    'python-snakemake-interface-report-plugins>=1.0.0'
+    'python-snakemake-interface-report-plugins>=1.1.0'
     python-stopit
     python-tabulate
     python-throttler
-    'python-toposort>=1.10' 'python-toposort<2.0'
     python-wrapt
     'python-yte>=1.5.1' 'python-yte<2.0'
     'python-dpath>=2.1.6' 'python-dpath<3.0.0'
@@ -54,7 +53,7 @@ optdepends=(
 )
 license=(MIT)
 source=("https://files.pythonhosted.org/packages/source/${pkgname::1}/$pkgname/$pkgname-$pkgver.tar.gz")
-sha256sums=('dcb30052645ab89facf680ef4ec021143eb5ef862bb2d2de2ec190a616c3c471')
+sha256sums=('bfda3c75114879f649b03d68d558d7e8edb4e0a17dae24e48434f1556ab7a993')
 
 build() {
     cd "$srcdir/$pkgname-$pkgver"
