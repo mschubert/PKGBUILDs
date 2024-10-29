@@ -1,6 +1,6 @@
 pkgbase = snakemake
 	pkgdesc = Python-based language and execution environment for GNU Make-like workflows
-	pkgver = 8.24.0
+	pkgver = 8.24.1
 	pkgrel = 1
 	url = https://snakemake.readthedocs.io
 	arch = any
@@ -55,7 +55,7 @@ pkgbase = snakemake
 	optdepends = python-ftputil: For FTP support
 	optdepends = python-xrootd: For XRootD support
 	optdepends = slacker: For messaging
-	source = https://files.pythonhosted.org/packages/source/s/snakemake/snakemake-8.24.0.tar.gz
-	sha256sums = 4445f33e4e23ae9025bbc5aef46b868d8b615ef463544659674db8aabf40bcd4
+	source = https://files.pythonhosted.org/packages/source/s/snakemake/snakemake-8.24.1.tar.gz
+	sha256sums = 0559831260cdfb216d9c20f7e8465d841333935eac15f62787cec6d266efbf01
 
 pkgname = snakemake
