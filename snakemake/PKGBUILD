@@ -3,7 +3,7 @@
 # Contributor: Kyle Meyer <kyle@kyleam.com>
 pkgname=snakemake
 pkgver=8.28.0
-pkgrel=1
+pkgrel=2
 pkgdesc='Python-based language and execution environment for GNU Make-like workflows'
 arch=(any)
 url='https://snakemake.readthedocs.io'
@@ -21,7 +21,7 @@ depends=(
     jupyter-nbformat
     python-packaging
     python-psutil
-    'python-pulp>=2.3.1' 'python-pulp<3'
+    'python-pulp>=2.3.1'
     python-yaml
     'python-requests>=2.8.1' 'python-requests<3.0'
     python-reretry
