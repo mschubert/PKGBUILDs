@@ -111,6 +111,7 @@ Package versions
 [![python:snakemake-interface-storage-plugins](https://repology.org/badge/version-for-repo/aur/python:snakemake-interface-storage-plugins.svg?header=python:snakemake-interface-storage-plugins)](https://repology.org/project/python:snakemake-interface-storage-plugins/versions)
 [![python:spectra](https://repology.org/badge/version-for-repo/aur/python:spectra.svg?header=python:spectra)](https://repology.org/project/python:spectra/versions)
 [![python:throttler](https://repology.org/badge/version-for-repo/aur/python:throttler.svg?header=python:throttler)](https://repology.org/project/python:throttler/versions)
+[![python:yte](https://repology.org/badge/version-for-repo/aur/python:yte.svg?header=python:yte)](https://repology.org/project/python:yte/versions)
 [![radian](https://repology.org/badge/version-for-repo/aur/radian.svg?header=radian)](https://repology.org/project/radian/versions)
 [![snakemake](https://repology.org/badge/version-for-repo/aur/snakemake.svg?header=snakemake)](https://repology.org/project/snakemake/versions)
 [![staden](https://repology.org/badge/version-for-repo/aur/staden.svg?header=staden)](https://repology.org/project/staden/versions)
