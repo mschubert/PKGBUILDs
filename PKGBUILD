@@ -1,10 +1,10 @@
-# Maintainer: Caleb Maclennan <caleb@alerque.com>
+# Contributor: Caleb Maclennan <caleb@alerque.com>
 # Contributor: brent s. <bts[at]square-r00t[dot]net>
 
 _name=dpath
 pkgname=python-dpath
-pkgver=2.1.6
-pkgrel=2
+pkgver=2.2.0
+pkgrel=1
 pkgdesc='A python library for accessing and searching dictionaries via /slashed/paths ala xpath'
 arch=(any)
 url="https://pypi.org/project/$_name"
@@ -14,7 +14,7 @@ makedepends=(python-{build,installer,wheel}
              python-setuptools)
 _archive="$_name-$pkgver"
 source=("https://files.pythonhosted.org/packages/source/d/$_name/$_archive.tar.gz")
-sha256sums=('f1e07c72e8605c6a9e80b64bc8f42714de08a789c7de417e49c3f87a19692e47')
+sha256sums=('34f7e630dc55ea3f219e555726f5da4b4b25f2200319c8e6902c394258dd6a3e')
 
 build() {
 	cd "$_archive"
