@@ -1,5 +1,5 @@
 pkgbase = python-dpath
-	pkgdesc = A python library for accessing and searching dictionaries via /slashed/paths ala xpath
+	pkgdesc = Filesystem-like pathing and searching for dictionaries
 	pkgver = 2.2.0
 	pkgrel = 1
 	url = https://pypi.org/project/dpath
