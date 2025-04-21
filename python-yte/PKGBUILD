@@ -1,4 +1,5 @@
-# Maintainer: Ivan Batrakov <blackfan321 at disroot dot org>
+# Maintainer: Michael Schubert <mschu.dev at gmail> github.com/mschubert/PKGBUILDs
+# Contributor: Ivan Batrakov <blackfan321 at disroot dot org>
 # Contributor: Philipp A. <flying-sheep@web.de>
 _name=yte
 pkgname=python-$_name
