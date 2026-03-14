@@ -2,7 +2,7 @@
 # Contributor: Philipp A. <flying-sheep@web.de>
 # Contributor: Kyle Meyer <kyle@kyleam.com>
 pkgname=snakemake
-pkgver=9.13.7
+pkgver=9.17.1
 pkgrel=1
 pkgdesc='Python-based language and execution environment for GNU Make-like workflows'
 arch=(any)
@@ -24,12 +24,12 @@ depends=(
     python-yaml
     python-referencing
     'python-requests>=2.8.1' 'python-requests<3.0'
-    python-reretry
+    python-tenacity
     'python-smart_open>=4.0' 'python-smart_open<8.0'
     'python-snakemake-interface-common>=1.20.1'
     'python-snakemake-interface-executor-plugins>=9.3.2'
     'python-snakemake-interface-logger-plugins>=1.1.0'
-    'python-snakemake-interface-storage-plugins>=4.1.0'
+    'python-snakemake-interface-storage-plugins>=4.3.2'
     'python-snakemake-interface-report-plugins>=1.2.0'
     'python-snakemake-interface-scheduler-plugins>=2.0.0'
     python-tabulate
@@ -38,6 +38,7 @@ depends=(
     'python-yte>=1.5.5' 'python-yte<2.0'
     'python-dpath>=2.1.6' 'python-dpath<3.0.0'
     'python-conda-inject>=1.3.1' 'python-conda-inject<2.0'
+    'python-sqlmodel>=0.0.37' 'python-sqlmodel<0.0.38'
 )
 makedepends=(python-setuptools python-build python-installer python-wheel)
 optdepends=(
@@ -54,7 +55,7 @@ optdepends=(
 )
 license=(MIT)
 source=("https://files.pythonhosted.org/packages/source/${pkgname::1}/$pkgname/$pkgname-$pkgver.tar.gz")
-sha256sums=('c9e64fe5b8b57330680d4acc7ffd4e3d78c053379f940942dd3016281bc05383')
+sha256sums=('a7aa8c404150328307430ceff65e7ea86425fc03eaa93e5fbf6c629a573ef8cf')
 
 build() {
     cd "$srcdir/$pkgname-$pkgver"
