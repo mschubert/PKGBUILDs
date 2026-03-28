@@ -96,6 +96,7 @@ Package versions
 [![python:bioservices](https://repology.org/badge/version-for-repo/aur/python:bioservices.svg?header=python:bioservices)](https://repology.org/project/python:bioservices/versions)
 [![python:cgen](https://repology.org/badge/version-for-repo/aur/python:cgen.svg?header=python:cgen)](https://repology.org/project/python:cgen/versions)
 [![python:colormath](https://repology.org/badge/version-for-repo/aur/python:colormath.svg?header=python:colormath)](https://repology.org/project/python:colormath/versions)
+[![python:dpath](https://repology.org/badge/version-for-repo/aur/python:dpath.svg?header=python:dpath)](https://repology.org/project/python:dpath/versions)
 [![python:easydev](https://repology.org/badge/version-for-repo/aur/python:easydev.svg?header=python:easydev)](https://repology.org/project/python:easydev/versions)
 [![python:lzstring](https://repology.org/badge/version-for-repo/aur/python:lzstring.svg?header=python:lzstring)](https://repology.org/project/python:lzstring/versions)
 [![python:multipledispatch](https://repology.org/badge/version-for-repo/aur/python:multipledispatch.svg?header=python:multipledispatch)](https://repology.org/project/python:multipledispatch/versions)
